@@ -20,7 +20,7 @@ color - (CGColor) color of the line
 mitter - (bool) if line should form a sharp mitter at the joints. Feature is WIP - not supported with closed (the first and last joint will not be mittered) and there are artefacts when angle between the lines is too small
 
 ![img1](https://github.com/bialylis/ThickRedLine/blob/master/readme_images/img1.jpg)
-![img2](https://github.com/bialylis/ThickRedLine/blob/master/readme_images/img2.jpg)
-![img3](https://github.com/bialylis/ThickRedLine/blob/master/readme_images/img3.jpg)
+![img2](https://github.com/bialylis/ThickRedLine/blob/master/readme_images/img2.png)
+![img3](https://github.com/bialylis/ThickRedLine/blob/master/readme_images/img3.png)
 
 
