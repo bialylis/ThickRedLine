@@ -1,5 +1,5 @@
 # ThickRedLine
-Thick Red Line - drawing thick lines with constant on-screen width for SceneKit with metal shaders
+Thick Red Line - drawing thick lines with constant on-screen width independent of perspective, for SceneKit with metal shaders
 
 Example:
 ```swift
